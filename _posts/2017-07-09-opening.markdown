@@ -9,3 +9,5 @@ categories: opening
 к моей работе. Я работаю на компанию YADRO, уже почти месяц.
 
 Блог компании: https://habrahabr.ru/company/yadro/
+
+![плакат]({{ site.url }}/assets/plakat.jpg)
