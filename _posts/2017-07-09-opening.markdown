@@ -10,4 +10,5 @@ categories: opening
 
 Блог компании: https://habrahabr.ru/company/yadro/
 
+Плакат с работы:
 ![Здесь должен быть плакат. Включите картинки.]({{ site.url }}/assets/plakat.jpg)
