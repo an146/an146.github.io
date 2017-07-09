@@ -10,4 +10,4 @@ categories: opening
 
 Блог компании: https://habrahabr.ru/company/yadro/
 
-![Здесь должен быть плакат. Вкючите картинки.]({{ site.url }}/assets/plakat.jpg)
+![Здесь должен быть плакат. Включите картинки.]({{ site.url }}/assets/plakat.jpg)
