@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Система"
+date:   2017-07-14 01:07:40 +0300
+categories: music
+---
+Егор Летов. Апельсин, электричество. Система.
+
+{% include sistema.html %}
